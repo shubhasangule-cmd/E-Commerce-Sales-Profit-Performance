@@ -37,7 +37,7 @@ E-Commerce-Sales-Analysis
 
 ## Dashboard Preview
 <p align="center">
-  <img src="E-Commerce Sales & Profit Performance Dashboard.png" width="900">
+  <img src="E-Commerce Sales & Profit Performance Dashboard (3).png" width="900">
 </p>
 
 ## Key Insights
